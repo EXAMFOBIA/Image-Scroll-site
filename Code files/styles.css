@@ -1,0 +1,80 @@
+body {
+  font-family: "Merriweather", serif;
+  font-size: 16px;
+  background-color: #004d9d;
+  color: #ffffff;
+  margin: 0px;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+section {
+  height: 100vh;
+  background-image: url(../Assets/sally_1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+header {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
+
+footer {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 5px;
+}
+
+p {
+  margin: 0px;
+}
+
+footer a {
+  margin-right: 5px;
+}
+
+a:hover {
+    color: #dddddd;
+}
+
+.image-1{
+    background-image: url(../Assets/sally_1.jpg);
+}
+
+.image-2{
+    background-image: url(../Assets/sally_2.jpg);
+}
+
+.image-3{
+    background-image: url(../Assets/sally_3.jpg);
+}
+
+.image-4{
+    background-image: url(../Assets/sally_4.jpg);
+}
+
+.image-5{
+    background-image: url(../Assets/sally_5.jpg);
+}
+
+.image-6{
+    background-image: url(../Assets/sally_6.jpg);
+}
+
+.image-7{
+    background-image: url(../Assets/sally_7.jpg);
+}
+
+.image-8{
+    background-image: url(../Assets/sally_8.jpg);
+}
